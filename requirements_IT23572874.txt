@@ -1,0 +1,6 @@
+selenium==4.15.2
+webdriver-manager==4.0.1
+pytest==7.4.3
+pytest-xdist==3.5.0
+pytest-timeout==2.2.0
+Pillow==10.1.0
